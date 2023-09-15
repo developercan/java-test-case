@@ -20,4 +20,15 @@ public class User {
     String password;
     int age;
     
+    /* örnek psotman json içeriği
+     * 
+       {
+        "id": 1,
+        "name": "Ahmet Can",
+        "surname": "Kocaman",
+        "mail": "Ahmet@gmail.com",
+        "password": "12345",
+        "age": 24
+    }
+     */
 }

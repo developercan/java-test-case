@@ -17,6 +17,15 @@ public class Childeren {
     Long Userid;
     int maxscreentime;
 
-
+/*örnek Childeren json içeriği
+ 
+ {
+        "id": 1,
+        "name": "Ali",
+        "surname": "Kocaman",
+        "mail": "Ali@gmail.com",
+        "password": "12345"
+    }
+ */
     
 }

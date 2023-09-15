@@ -15,4 +15,14 @@ public class Parent {
     String surname;
     String mail;
     String password;
+
+    /* Örnek Parent json içeriği
+     {
+        "id": 1,
+        "name": "Ali",
+        "surname": "Kocaman",
+        "mail": "Ali@gmail.com",
+        "password": "12345"
+    }
+     */
 }
