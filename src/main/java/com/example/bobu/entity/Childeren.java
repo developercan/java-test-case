@@ -12,9 +12,9 @@ import lombok.Data;
 @Data
 public class Childeren {
     @Id
-    String id;
-    String Parentid;
-    String Userid;
+    Long id;
+    Long Parentid;
+    Long Userid;
     int maxscreentime;
 
 
